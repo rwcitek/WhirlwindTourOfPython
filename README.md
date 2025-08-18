@@ -25,7 +25,7 @@ version. I have done my best to note places where the syntax of Python 2.X will 
 
 *(Note: sometimes GitHub's notebook rendering can be slow or finicky.
 If you're having trouble with the following links, try viewing the material
-[on nbviewer](http://nbviewer.jupyter.org/github/rwcitek/WhirlwindTourOfPython/blob/test/Index.ipynb))*
+[on nbviewer](http://nbviewer.jupyter.org/github/rwcitek/WhirlwindTourOfPython/blob/master-rwc/Index.ipynb))*
 
 [Notebook Index](Index.ipynb)
 
